@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes>
+    <dest title="Оператор X Абхазия">
+        <prefix values="5123,515,57">
+            <costout cost="32.37"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Абхазия моб">
+        <prefix values="630">
+            <costout cost="87.77"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Абхазия моб A-Mobile">
+        <prefix values="359142">
+            <costout cost="97.01"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Абхазия моб Aquafon">
+        <prefix values="907104,907114,907101,907175,90795,90788,907123">
+            <costout cost="80.4"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австралия">
+        <prefix values="759124,75916,759168,759170,75932">
+            <costout cost="82.32"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австралия моб">
+        <prefix values="637">
+            <costout cost="79.64"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австралия спец">
+        <prefix values="2339,2368,23197">
+            <costout cost="86.29"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австралия спутник">
+        <prefix values="585114,58576,5858,58583,58512,58563,5856,585134">
+            <costout cost="74.73"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия">
+        <prefix values="91682,91651,91655,916117,916152,91649,916100,916107">
+            <costout cost="13.82"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия Вена">
+        <prefix values="3876,3822,3899,38149,3858">
+            <costout cost="5.38"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия моб">
+        <prefix values="74623,74635,746182,74640">
+            <costout cost="72.58"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия моб A1">
+        <prefix values="447">
+            <costout cost="16.12"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия моб H3G">
+        <prefix values="338">
+            <costout cost="64.99"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия моб T-Mobile">
+        <prefix values="501158">
+            <costout cost="29.24"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Австрия спец">
+        <prefix values="791130,791101">
+            <costout cost="29.64"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан">
+        <prefix values="84321,843178,84326,84337,84395,843172">
+            <costout cost="91.71"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан Баку">
+        <prefix values="588141,588185,58867,588186,588194,58880,588106,588181,58858">
+            <costout cost="80.71"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан моб Azercell">
+        <prefix values="46131,4695">
+            <costout cost="78.05"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан моб Azerfon">
+        <prefix values="965188,96585,965170,965104,965114,96557">
+            <costout cost="27.25"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан моб Bakcell">
+        <prefix values="836143,836195,836137,83628,836171,836116,83640">
+            <costout cost="11.2"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Азербайджан моб Nakhtel">
+        <prefix values="830152,83017,83066,830153,830152,830176,830175,830186">
+            <costout cost="60.45"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания">
+        <prefix values="619131,61932,61944">
+            <costout cost="21.31"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания Тирана">
+        <prefix values="76053">
+            <costout cost="87.97"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания моб AMC">
+        <prefix values="711154,711127,711153,7118">
+            <costout cost="59.65"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания моб Eagle">
+        <prefix values="360">
+            <costout cost="94.11"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания моб Vodafone">
+        <prefix values="757138,75797,757105,757183,75736,757164">
+            <costout cost="96.6"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Албания спец">
+        <prefix values="831">
+            <costout cost="30.46"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир">
+        <prefix values="316148,316170,31690,31635,316163,31640,316155">
+            <costout cost="7.73"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир CAT">
+        <prefix values="689132,68978,68994,689145,689178,68974,689155,68975">
+            <costout cost="32.34"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир Алжир">
+        <prefix values="54762,547128,547118,547196,547197,547170,547149,54799">
+            <costout cost="85.91"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир моб Mobilis">
+        <prefix values="822">
+            <costout cost="26.87"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир моб Ooredoo">
+        <prefix values="520186">
+            <costout cost="42.84"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Алжир моб Orascom">
+        <prefix values="825125,82576,825175">
+            <costout cost="94.68"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Американское Самоа">
+        <prefix values="40037,40091,40082,40051">
+            <costout cost="84.54"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Ангилья">
+        <prefix values="906135,90628,90650">
+            <costout cost="22.63"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Ангола">
+        <prefix values="836">
+            <costout cost="53.16"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Ангола моб">
+        <prefix values="80537,805156">
+            <costout cost="13.34"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Ангола моб Unitel">
+        <prefix values="42091">
+            <costout cost="86.25"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Андорра">
+        <prefix values="21687,216167,216106,21610,216115,216147,216119">
+            <costout cost="59.78"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Андорра моб">
+        <prefix values="196143,19614,19614,196189,1969,196119,19644,19661">
+            <costout cost="78.81"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Антарктика">
+        <prefix values="41571,4157,41570,4157,41551">
+            <costout cost="22.34"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Антарктика Норфолк">
+        <prefix values="349111,34979,349171,349196">
+            <costout cost="53.99"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Антигуа">
+        <prefix values="352149,352130,352181,35241,352198,3520">
+            <costout cost="89.55"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Антильские о-ва">
+        <prefix values="9357,93592,935142,9353,935104,935118,935127">
+            <costout cost="63.9"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Антильские о-ва моб">
+        <prefix values="69361,693169">
+            <costout cost="81.99"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина">
+        <prefix values="594,514,565,5184">
+            <costout cost="91.03"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина Буэнос Айрес">
+        <prefix values="210">
+            <costout cost="96.58"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина Кордова">
+        <prefix values="865171">
+            <costout cost="16.78"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина Мендоса">
+        <prefix values="39350,393185,39325,393168">
+            <costout cost="92.85"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина Росарио">
+        <prefix values="8187,863,894">
+            <costout cost="48.89"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аргентина моб">
+        <prefix values="669128,669108,66978,66999,66970">
+            <costout cost="62.14"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения">
+        <prefix values="89965,899136,89912">
+            <costout cost="63.01"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения Ереван">
+        <prefix values="39610,39626,396102,39648,396157,396183">
+            <costout cost="21.57"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения Нагорный Карабах">
+        <prefix values="2774,27140,27161,2730">
+            <costout cost="42.01"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения моб Beeline">
+        <prefix values="522133,52241,522126,522165,522197">
+            <costout cost="27.37"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения моб Ucom">
+        <prefix values="681121,681166,681169,6813">
+            <costout cost="98.12"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения моб VivaCell">
+        <prefix values="75467,754186,754181,75491,75489,75410,754120">
+            <costout cost="21.15"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Армения моб Нагорный Карабах">
+        <prefix values="966192,96630,966101">
+            <costout cost="77.48"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аруба">
+        <prefix values="95618,956182,9561,956174,95676,956170,95628">
+            <costout cost="13"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Аруба моб">
+        <prefix values="422131,422197">
+            <costout cost="28.13"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан">
+        <prefix values="59633,596102,596118,596138,59673,596186">
+            <costout cost="20.37"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан моб AT">
+        <prefix values="4799,47127,47181">
+            <costout cost="57.85"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан моб AWCC">
+        <prefix values="370122,370193,370132,37030,37012">
+            <costout cost="47.97"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан моб Etisalat">
+        <prefix values="874104,8741,87495,87452,87437,87410">
+            <costout cost="26.78"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан моб MTN">
+        <prefix values="940">
+            <costout cost="15.17"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Афганистан моб Roshan">
+        <prefix values="552185,55290,552151,55270,552191,552136,55229,55246">
+            <costout cost="70.9"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Багамские о-ва">
+        <prefix values="311170,31190,31170">
+            <costout cost="42.15"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бангладеш">
+        <prefix values="802119,802194,802135,80220,802129">
+            <costout cost="82.21"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бангладеш Дака">
+        <prefix values="32">
+            <costout cost="44.19"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бангладеш моб">
+        <prefix values="479191,47930,479137">
+            <costout cost="8.73"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Барбадос">
+        <prefix values="48980,489107,489193,489168,4892,48980,489185">
+            <costout cost="52.47"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бахрейн">
+        <prefix values="60046,600150,60099,60061,60083,60084,60043">
+            <costout cost="27.15"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бахрейн моб">
+        <prefix values="26784,267128">
+            <costout cost="84.51"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Беларусь">
+        <prefix values="51095,51025,51067,51082,51098,51022,51027">
+            <costout cost="38.93"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Беларусь Минск">
+        <prefix values="470112,47030,470178,470118">
+            <costout cost="80.74"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Беларусь моб">
+        <prefix values="315167,31553,31568,31557,31583,315116,315170,315132,31539">
+            <costout cost="71.34"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Беларусь моб A1">
+        <prefix values="78272,78220,782186,7826,7828">
+            <costout cost="27.25"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Беларусь моб MTS">
+        <prefix values="71563,715123,715155,715160,71585,71550,715101">
+            <costout cost="65.72"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Белиз">
+        <prefix values="93373,9330">
+            <costout cost="30.37"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Белиз моб">
+        <prefix values="782">
+            <costout cost="85.59"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия">
+        <prefix values="722">
+            <costout cost="91.37"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб">
+        <prefix values="705143,70510,705197,705134,705143,705163,705134,705163,705173">
+            <costout cost="24.33"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб Base">
+        <prefix values="904198">
+            <costout cost="37.95"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб Lycamobile">
+        <prefix values="7594,75977,75943,75959,759113,7593,75937">
+            <costout cost="40.28"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб Orange">
+        <prefix values="692105,692130,692160,692194,692137,692149">
+            <costout cost="3.39"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб Proximus">
+        <prefix values="668172,66834,668173">
+            <costout cost="33.04"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия моб VOO">
+        <prefix values="89550,895190,8958,89518">
+            <costout cost="31.05"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия сервисы">
+        <prefix values="19">
+            <costout cost="43.97"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бельгия спец">
+        <prefix values="4096,409125,409135,409138,40927">
+            <costout cost="4.29"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бенин">
+        <prefix values="5331,533196">
+            <costout cost="88.12"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бенин моб">
+        <prefix values="99173,99188,9990,99117,99142">
+            <costout cost="27.62"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Бермудские о-ва">
+        <prefix values="445172,445158,44542,4450,445130,445152,44598,445193,44533">
+            <costout cost="75.43"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Болгария">
+        <prefix values="507138,507108,507139">
+            <costout cost="0.26"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Болгария София">
+        <prefix values="28116,2825,28179,28148,28150,28193">
+            <costout cost="15.25"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Болгария моб A1">
+        <prefix values="256">
+            <costout cost="75.04"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Болгария моб Telenor">
+        <prefix values="43238,432183,432138,43246,432128">
+            <costout cost="92.1"/>
+        </prefix>
+    </dest>
+    <dest title="Оператор X Болгария моб Vivacom">
+        <prefix values="71835">
+            <costout cost="72.21"/>
+        </prefix>
+    </dest>
+    
+    <config data="1;6;7:0:60,60:9000:60;"/>
+    <mult_cost value="1.30"/>
+</nodes>
