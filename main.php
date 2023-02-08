@@ -26,4 +26,4 @@ foreach ($xml2 as $node) {
     }
 }
 
-$xml1->asXML("merged_file.xml");
+$xml2->asXML("merged_file.xml");
