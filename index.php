@@ -35,7 +35,7 @@ foreach ($spreadsheet->getActiveSheet()->toArray() as $row) {
 
 function dd($a)
 {
-    $numbers = explode(':', $a);
+    $numbers = explode(':', trim($a));
     $numbers_array = explode(",", $numbers[1]);
     $new_numbers = [];
     foreach ($numbers_array as $number) {
