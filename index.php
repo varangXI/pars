@@ -15,6 +15,9 @@ $spreadsheet->getSheet(0)->toArray();
 $writer->startElement("nodes");
 
 foreach ($spreadsheet->getActiveSheet()->toArray() as $row) {
+    if (($row[0] == 'Направление')) {
+        continue;
+    }
     $writer->startElement("dest");
     $writer->writeAttribute("title", $row[0]);
 
